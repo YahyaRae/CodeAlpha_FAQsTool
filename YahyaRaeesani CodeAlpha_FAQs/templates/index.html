@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Health & Wellness Chatbot</title>
+    <style>
+        body { 
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+            max-width: 800px; 
+            margin: 0 auto; 
+            padding: 20px; 
+            background-color: #f0f8ff;
+        }
+        .chat-container { 
+            border: 1px solid #b3d9ff; 
+            border-radius: 10px; 
+            padding: 20px; 
+            height: 400px; 
+            overflow-y: auto; 
+            background: white;
+            margin-bottom: 20px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+            background-color: #f9fbff;
+        }
+        .message { 
+            margin: 15px 0; 
+            padding: 12px 15px; 
+            border-radius: 18px; 
+            max-width: 80%;
+            line-height: 1.5;
+        }
+        .user-message { 
+            background-color: #e6f2ff; 
+            margin-left: auto;
+            border-bottom-right-radius: 5px;
+        }
+        .bot-message { 
+            background-color: #f0f7ff; 
+            margin-right: auto;
+            border-bottom-left-radius: 5px;
+        }
+        .input-area { 
+            display: flex; 
+            gap: 10px;
+        }
+        #user-input { 
+            flex: 1; 
+            padding: 14px; 
+            border: 1px solid #a3c6ff;
+            border-radius: 25px;
+            font-size: 16px;
+            outline: none;
+            transition: border 0.3s;
+        }
+        #user-input:focus {
+            border-color: #4d94ff;
+            box-shadow: 0 0 5px rgba(77, 148, 255, 0.3);
+        }
+        button { 
+            padding: 14px 25px; 
+            background-color: #4da6ff; 
+            color: white; 
+            border: none; 
+            border-radius: 25px;
+            cursor: pointer;
+            font-size: 16px;
+            font-weight: 600;
+            transition: background 0.3s;
+        }
+        button:hover {
+            background-color: #3385ff;
+        }
+        h1 {
+            color: #0066cc;
+            text-align: center;
+            margin-bottom: 25px;
+        }
+        .timestamp {
+            font-size: 12px;
+            color: #888;
+            text-align: right;
+            margin-top: 5px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Health & Wellness Chatbot</h1>
+    <div class="chat-container" id="chat-box">
+        <div class="message bot-message">Hello! I'm your Health Assistant. Ask me about wellness topics.</div>
+    </div>
+    <div class="input-area">
+        <input type="text" id="user-input" placeholder="Ask a health question..." autocomplete="off">
+        <button onclick="sendMessage()">Send</button>
+    </div>
+
+    <script>
+        function displayMessage(text, sender) {
+            const chatBox = document.getElementById('chat-box');
+            const messageDiv = document.createElement('div');
+            messageDiv.classList.add('message', `${sender}-message`);
+            messageDiv.textContent = text;
+            chatBox.appendChild(messageDiv);
+            
+            // Scroll to bottom
+            chatBox.scrollTop = chatBox.scrollHeight;
+        }
+        
+        function sendMessage() {
+            const userInput = document.getElementById('user-input');
+            const message = userInput.value.trim();
+            
+            if (message) {
+                displayMessage(message, 'user');
+                
+                // Send to backend
+                fetch('/ask', {
+                    method: 'POST',
+                    headers: { 
+                        'Content-Type': 'application/x-www-form-urlencoded' 
+                    },
+                    body: `message=${encodeURIComponent(message)}`
+                })
+                .then(response => response.json())
+                .then(data => {
+                    displayMessage(data.response, 'bot');
+                })
+                .catch(error => {
+                    displayMessage("Error connecting to server", 'bot');
+                });
+                
+                // Clear input
+                userInput.value = '';
+            }
+        }
+        
+        // Allow Enter key to send
+        document.getElementById('user-input').addEventListener('keypress', function(e) {
+            if (e.key === 'Enter') {
+                sendMessage();
+            }
+        });
+        
+        // Focus input field on load
+        window.onload = function() {
+            document.getElementById('user-input').focus();
+        };
+    </script>
+</body>
+</html>

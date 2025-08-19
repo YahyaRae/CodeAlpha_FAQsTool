@@ -1,0 +1,466 @@
+[
+  {
+    "question": "How much water should I drink daily?",
+    "answer": "Adults should drink 8-10 glasses (2-3 liters) of water daily. Needs vary based on activity level and climate."
+  },
+  {
+    "question": "What are symptoms of dehydration?",
+    "answer": "Common signs include thirst, dark urine, fatigue, dizziness, and dry mouth."
+  },
+  {
+    "question": "How much sleep do I need?",
+    "answer": "Adults need 7-9 hours of sleep per night for optimal health."
+  },
+  {
+    "question": "What is a balanced diet?",
+    "answer": "A balanced diet includes fruits, vegetables, lean proteins, whole grains, and healthy fats in proper portions."
+  },
+  {
+    "question": "How often should I exercise?",
+    "answer": "Aim for 150 minutes of moderate aerobic activity or 75 minutes of vigorous activity weekly, plus strength training twice a week."
+  },
+  {
+    "question": "What are the benefits of regular exercise?",
+    "answer": "Regular exercise improves cardiovascular health, boosts mood, increases energy, helps weight management, strengthens bones and muscles, and reduces risk of chronic diseases."
+  },
+  {
+    "question": "How can I reduce stress naturally?",
+    "answer": "Try deep breathing exercises, meditation, regular physical activity, spending time in nature, maintaining social connections, and ensuring adequate sleep."
+  },
+  {
+    "question": "What foods boost immunity?",
+    "answer": "Citrus fruits, red bell peppers, broccoli, garlic, ginger, spinach, yogurt, almonds, turmeric, green tea, and papaya are excellent for immune health."
+  },
+  {
+    "question": "How often should I take breaks from sitting?",
+    "answer": "Take a 5-minute break every hour. Stand, stretch, or walk around to improve circulation and reduce health risks from prolonged sitting."
+  },
+  {
+    "question": "What are signs of vitamin deficiency?",
+    "answer": "Common signs include fatigue, brittle hair/nails, mouth ulcers, bleeding gums, poor night vision, dandruff, hair loss, and scaly patches."
+  },
+  {
+    "question": "How much caffeine is safe daily?",
+    "answer": "Up to 400mg per day is generally safe for adults (about 4 cups of coffee). Pregnant women should limit to 200mg. Listen to your body's reactions."
+  },
+  {
+    "question": "What is mindfulness meditation?",
+    "answer": "Mindfulness is focusing on the present moment without judgment. Practice by paying attention to your breath, bodily sensations, thoughts, and surroundings."
+  },
+  {
+    "question": "How to improve posture?",
+    "answer": "1. Adjust workstation ergonomics 2. Strengthen core muscles 3. Use lumbar support 4. Take posture breaks 5. Practice shoulder blade squeezes."
+  },
+  {
+    "question": "What are heart-healthy foods?",
+    "answer": "Oats, berries, dark leafy greens, avocados, fatty fish, walnuts, beans, dark chocolate, tomatoes, almonds, seeds, and olive oil support heart health."
+  },
+  {
+    "question": "How much protein do I need daily?",
+    "answer": "Adults need 0.8g per kg of body weight. Active individuals may need 1.2-2.0g/kg. Good sources: lean meats, fish, eggs, dairy, legumes, and tofu."
+  },
+  {
+    "question": "What are symptoms of anxiety?",
+    "answer": "Excessive worry, restlessness, fatigue, difficulty concentrating, irritability, muscle tension, sleep problems, and panic attacks. Seek professional help if persistent."
+  },
+  {
+    "question": "How to start a fitness routine?",
+    "answer": "1. Set realistic goals 2. Start with 3 days/week 3. Mix cardio and strength 4. Listen to your body 5. Track progress 6. Make it enjoyable!"
+  },
+  {
+    "question": "What is the 20-20-20 rule for eyes?",
+    "answer": "Every 20 minutes, look at something 20 feet away for 20 seconds to reduce digital eye strain from screens."
+  },
+  {
+    "question": "How to improve gut health?",
+    "answer": "Eat fermented foods (yogurt, kimchi), high-fiber foods, stay hydrated, manage stress, get enough sleep, and limit processed foods and antibiotics."
+  },
+  {
+    "question": "What are healthy snack options?",
+    "answer": "Greek yogurt with berries, apple with peanut butter, mixed nuts, hummus with veggies, hard-boiled eggs, cottage cheese, or a small protein smoothie."
+  },
+  {
+    "question": "What's the best time to exercise?",
+    "answer": "The best time is whenever you can consistently fit it into your schedule. Morning workouts may boost metabolism, while evening workouts might have better performance."
+  },
+  {
+    "question": "How much water should I drink during exercise?",
+    "answer": "Drink 7-10 ounces every 10-20 minutes during exercise. For intense/long workouts, consider electrolyte-replacement drinks."
+  },
+  {
+    "question": "What are signs of overtraining?",
+    "answer": "Persistent muscle soreness, increased resting heart rate, reduced performance, fatigue, irritability, and increased susceptibility to illnesses."
+  },
+  {
+    "question": "How to prevent workout injuries?",
+    "answer": "1. Warm up properly 2. Use correct form 3. Progress gradually 4. Cross-train 5. Rest adequately 6. Stay hydrated 7. Use proper equipment."
+  },
+  {
+    "question": "What's HIIT training?",
+    "answer": "High-Intensity Interval Training involves short bursts of intense exercise alternated with recovery periods. Effective for cardiovascular fitness and fat burning."
+  },
+  {
+    "question": "How to build muscle effectively?",
+    "answer": "1. Progressive overload 2. Compound exercises 3. Proper nutrition (especially protein) 4. Adequate rest 5. Consistency 6. Proper form."
+  },
+  {
+    "question": "What are superfoods?",
+    "answer": "Nutrient-dense foods like berries, leafy greens, nuts, seeds, salmon, turmeric, ginger, garlic, green tea, and fermented foods that offer exceptional health benefits."
+  },
+  {
+    "question": "How to read nutrition labels?",
+    "answer": "Focus on: serving size, calories, nutrients to limit (saturated fat, sodium, added sugars), and nutrients to get enough of (fiber, protein, vitamins)."
+  },
+  {
+    "question": "What's the Mediterranean diet?",
+    "answer": "A heart-healthy eating pattern emphasizing fruits, vegetables, whole grains, beans, nuts, seeds, olive oil, and fish with moderate poultry, eggs, and dairy."
+  },
+  {
+    "question": "How to control portion sizes?",
+    "answer": "Use smaller plates, measure servings, fill half plate with veggies, eat slowly, avoid eating from packages, and be mindful of restaurant portions."
+  },
+  {
+    "question": "What are healthy fats?",
+    "answer": "Monounsaturated (olive oil, avocados) and polyunsaturated fats (fatty fish, walnuts) that support heart health and brain function."
+  },
+  {
+    "question": "How to reduce sugar intake?",
+    "answer": "1. Limit sugary drinks 2. Choose whole fruits 3. Check labels 4. Use natural sweeteners sparingly 5. Avoid processed foods 6. Gradually reduce sugar in recipes."
+  },
+  {
+    "question": "What is intermittent fasting?",
+    "answer": "An eating pattern cycling between periods of eating and fasting. Common methods: 16/8 (fast 16 hours, eat within 8-hour window) or 5:2 (normal eating 5 days, restrict calories 2 days)."
+  },
+  {
+    "question": "How to improve sleep quality?",
+    "answer": "Maintain consistent schedule, create restful environment, limit screen time before bed, avoid caffeine/alcohol late, exercise regularly, and manage stress."
+  },
+  {
+    "question": "What are sleep hygiene practices?",
+    "answer": "1. Keep bedroom cool/dark/quiet 2. Reserve bed for sleep only 3. Establish pre-sleep routine 4. Limit naps 5. Avoid large meals before bed."
+  },
+  {
+    "question": "How much deep sleep do I need?",
+    "answer": "Adults need about 1.5-2 hours of deep sleep per night (20-25% of total sleep). It's crucial for physical restoration and immune function."
+  },
+  {
+    "question": "What causes insomnia?",
+    "answer": "Stress, irregular schedule, poor sleep habits, late eating, mental health disorders, medications, medical conditions, caffeine, nicotine, or alcohol."
+  },
+  {
+    "question": "How to manage anxiety?",
+    "answer": "Practice deep breathing, mindfulness, regular exercise, limit caffeine/alcohol, prioritize sleep, challenge negative thoughts, and seek professional help if needed."
+  },
+  {
+    "question": "What are signs of depression?",
+    "answer": "Persistent sadness, loss of interest, changes in appetite/sleep, fatigue, feelings of worthlessness, difficulty concentrating, and physical aches."
+  },
+  {
+    "question": "How to practice mindfulness?",
+    "answer": "1. Focus on breath 2. Observe thoughts without judgment 3. Use body scans 4. Practice mindful eating 5. Take mindful walks 6. Use guided meditations."
+  },
+  {
+    "question": "What is cognitive behavioral therapy?",
+    "answer": "CBT is a psychotherapy that helps identify and change negative thought patterns and behaviors. Effective for depression, anxiety, and many mental health conditions."
+  },
+  {
+    "question": "How to boost mental health?",
+    "answer": "Stay connected, be physically active, learn new skills, give to others, practice mindfulness, maintain work-life balance, and seek help when needed."
+  },
+  {
+    "question": "What are immune-boosting foods?",
+    "answer": "Citrus fruits, red bell peppers, broccoli, garlic, ginger, spinach, yogurt, almonds, turmeric, green tea, papaya, kiwi, poultry, and shellfish."
+  },
+  {
+    "question": "How to prevent colds and flu?",
+    "answer": "Wash hands frequently, avoid touching face, get vaccinated, stay hydrated, eat nutritious foods, exercise regularly, manage stress, and get adequate sleep."
+  },
+  {
+    "question": "What are signs of COVID-19?",
+    "answer": "Fever/chills, cough, shortness of breath, fatigue, muscle/body aches, headache, loss of taste/smell, sore throat, congestion, nausea, or diarrhea."
+  },
+  {
+    "question": "How to strengthen lungs?",
+    "answer": "Practice deep breathing, exercise regularly, avoid pollutants, quit smoking, practice good posture, stay hydrated, and laugh more (it exercises lungs)."
+  },
+  {
+    "question": "What is heart rate variability?",
+    "answer": "HRV measures variation in time between heartbeats. Higher HRV indicates better cardiovascular fitness, stress resilience, and overall health."
+  },
+  {
+    "question": "How to check blood pressure at home?",
+    "answer": "1. Sit quietly for 5 minutes 2. Use validated monitor 3. Position cuff on bare upper arm 4. Keep feet flat, back supported 5. Take 2-3 readings 1 minute apart."
+  },
+  {
+    "question": "What is a normal blood pressure?",
+    "answer": "Normal: Below 120/80 mmHg. Elevated: 120-129/<80. Hypertension Stage 1: 130-139/80-89. Hypertension Stage 2: ≥140/≥90."
+  },
+  {
+    "question": "How to lower cholesterol naturally?",
+    "answer": "Eat soluble fiber, increase omega-3s, avoid trans fats, exercise regularly, quit smoking, limit alcohol, and maintain healthy weight."
+  },
+  {
+    "question": "What are symptoms of diabetes?",
+    "answer": "Increased thirst, frequent urination, extreme hunger, unexplained weight loss, fatigue, blurred vision, slow-healing sores, and frequent infections."
+  },
+  {
+    "question": "How to prevent type 2 diabetes?",
+    "answer": "Lose excess weight, exercise regularly, eat balanced diet (high fiber, low refined carbs), drink water, quit smoking, and monitor blood sugar if at risk."
+  },
+  {
+    "question": "What is metabolic syndrome?",
+    "answer": "A cluster of conditions (high BP, high blood sugar, excess body fat around waist, abnormal cholesterol) that increase heart disease, stroke, and diabetes risk."
+  },
+  {
+    "question": "How to improve digestion?",
+    "answer": "Eat fiber-rich foods, stay hydrated, exercise regularly, manage stress, eat slowly, limit fatty/spicy foods, and consider probiotics."
+  },
+  {
+    "question": "What causes bloating?",
+    "answer": "Overeating, gas-producing foods, food intolerances, constipation, swallowing air, menstrual cycle, or medical conditions like IBS."
+  },
+  {
+    "question": "How to relieve constipation?",
+    "answer": "Drink more water, increase fiber gradually, exercise regularly, don't ignore urges, consider probiotics, and try natural laxatives like prunes."
+  },
+  {
+    "question": "What are probiotic foods?",
+    "answer": "Yogurt, kefir, sauerkraut, tempeh, kimchi, miso, kombucha, pickles (fermented in brine), and some cheeses."
+  },
+  {
+    "question": "How to care for your skin?",
+    "answer": "Wear sunscreen, stay hydrated, eat antioxidant-rich foods, cleanse gently, moisturize, avoid smoking, manage stress, and get adequate sleep."
+  },
+  {
+    "question": "What causes acne?",
+    "answer": "Excess oil production, clogged hair follicles, bacteria, hormones, certain medications, and diet (high glycemic foods may trigger acne)."
+  },
+  {
+    "question": "How to prevent wrinkles?",
+    "answer": "Wear sunscreen daily, avoid smoking, moisturize, use retinoids, eat antioxidant-rich foods, stay hydrated, and avoid repetitive facial expressions."
+  },
+  {
+    "question": "What is SPF?",
+    "answer": "Sun Protection Factor measures protection against UVB rays. SPF 30 blocks 97% of UVB rays, SPF 50 blocks 98%. Apply generously and reapply every 2 hours."
+  },
+  {
+    "question": "How to protect your eyes?",
+    "answer": "Wear UV-protective sunglasses, follow 20-20-20 rule, maintain screen distance, use proper lighting, eat eye-healthy foods, and get regular eye exams."
+  },
+  {
+    "question": "What are digital eye strain symptoms?",
+    "answer": "Dry eyes, headaches, blurred vision, neck/shoulder pain, sensitivity to light, and difficulty focusing after screen use."
+  },
+  {
+    "question": "How to maintain back health?",
+    "answer": "Practice good posture, exercise core muscles, lift properly, maintain healthy weight, choose supportive mattress, and avoid prolonged sitting."
+  },
+  {
+    "question": "What causes back pain?",
+    "answer": "Muscle strain, disc problems, arthritis, osteoporosis, poor posture, obesity, psychological stress, or underlying medical conditions."
+  },
+  {
+    "question": "What is osteoporosis?",
+    "answer": "A condition where bones become weak and brittle, increasing fracture risk. Prevent with calcium/vitamin D, weight-bearing exercise, and avoiding smoking/alcohol."
+  },
+  {
+    "question": "How to prevent osteoporosis?",
+    "answer": "Get enough calcium/vitamin D, do weight-bearing exercises, avoid smoking, limit alcohol, prevent falls, and consider bone density testing if at risk."
+  },
+  {
+    "question": "What are age-appropriate screenings?",
+    "answer": "Blood pressure (all adults), cholesterol (20+), diabetes (45+), mammograms (women 40+), colon cancer (45+), bone density (women 65+), and eye/dental exams."
+  },
+  {
+    "question": "How often should I get a physical?",
+    "answer": "Generally every 1-3 years for healthy adults under 50. Annually for those over 50 or with chronic conditions. Follow your doctor's recommendations."
+  },
+  {
+    "question": "What is preventive healthcare?",
+    "answer": "Actions to prevent diseases rather than treating them, including vaccinations, screenings, healthy lifestyle choices, and risk assessments."
+  },
+  {
+    "question": "How to quit smoking?",
+    "answer": "Set quit date, identify triggers, use nicotine replacement, consider medications, seek support (counseling or groups), avoid triggers, and manage cravings."
+  },
+  {
+    "question": "What are smoking cessation aids?",
+    "answer": "Nicotine patches/gum/lozenges, prescription medications (varenicline, bupropion), counseling, support groups, mobile apps, and alternative therapies."
+  },
+  {
+    "question": "How to reduce alcohol consumption?",
+    "answer": "Set limits, track drinks, alternate with water, avoid triggers, find alternatives, say no gracefully, and seek support if needed."
+  },
+  {
+    "question": "What is moderate drinking?",
+    "answer": "Up to 1 drink/day for women, 2 drinks/day for men. One drink = 12 oz beer, 5 oz wine, or 1.5 oz spirits. Some individuals should avoid alcohol completely."
+  },
+  {
+    "question": "How to build healthy habits?",
+    "answer": "Start small, be specific, make it easy, link to existing habits, track progress, be patient, and focus on consistency rather than perfection."
+  },
+  {
+    "question": "What is the 80/20 rule for health?",
+    "answer": "Focus on healthy choices 80% of the time, allowing flexibility for less healthy options 20% of the time to maintain balance and sustainability."
+  },
+  {
+    "question": "What is a healthy BMI range?",
+    "answer": "Normal BMI is 18.5-24.9. Below 18.5 is underweight, 25-29.9 is overweight, and 30+ is obese. BMI is a screening tool but doesn't directly measure body fat."
+  },
+  {
+    "question": "How to calculate BMI?",
+    "answer": "Weight in kilograms divided by height in meters squared. Formula: BMI = kg/m². Or use: (weight in pounds ÷ height in inches²) × 703."
+  },
+  {
+    "question": "What are healthy ways to lose weight?",
+    "answer": "Create calorie deficit through diet and exercise, eat protein/fiber-rich foods, control portions, stay hydrated, get enough sleep, and manage stress."
+  },
+  {
+    "question": "How to gain weight healthily?",
+    "answer": "Increase calorie intake with nutrient-dense foods, eat frequent small meals, focus on protein/healthy fats, strength train, and be consistent."
+  },
+  {
+    "question": "What are complex carbohydrates?",
+    "answer": "Slow-digesting carbs providing sustained energy: whole grains, oats, quinoa, brown rice, beans, lentils, vegetables, and fruits."
+  },
+  {
+    "question": "What are simple carbohydrates?",
+    "answer": "Fast-digesting carbs: table sugar, syrups, candy, soda, baked goods. Limit these as they cause blood sugar spikes."
+  },
+  {
+    "question": "What is the glycemic index?",
+    "answer": "A scale (0-100) ranking how quickly foods raise blood sugar. Low GI (55 or less): most fruits/vegetables. High GI (70+): white bread, potatoes."
+  },
+  {
+    "question": "How to boost metabolism?",
+    "answer": "Build muscle through strength training, eat protein-rich meals, stay hydrated, get enough sleep, manage stress, and consider HIIT workouts."
+  },
+  {
+    "question": "What causes food cravings?",
+    "answer": "Hormonal changes, emotional states, nutrient deficiencies, dehydration, lack of sleep, or conditioned responses to certain cues."
+  },
+  {
+    "question": "How to manage food cravings?",
+    "answer": "Stay hydrated, eat balanced meals, get enough sleep, manage stress, distract yourself, and allow occasional small portions of craved foods."
+  },
+  {
+    "question": "What is intuitive eating?",
+    "answer": "An approach that encourages listening to hunger/fullness cues, eating without guilt, respecting your body, and rejecting diet mentality."
+  },
+  {
+    "question": "How to practice self-care?",
+    "answer": "Prioritize sleep, eat nutritious foods, move your body, set boundaries, practice mindfulness, engage in hobbies, and seek social connection."
+  },
+  {
+    "question": "What are benefits of yoga?",
+    "answer": "Improves flexibility, builds strength, reduces stress, enhances mental focus, improves balance, and promotes mind-body awareness."
+  },
+  {
+    "question": "How to start meditating?",
+    "answer": "Start with 5 minutes daily, focus on breath, use guided apps, be patient with wandering thoughts, and create consistent practice."
+  },
+  {
+    "question": "What is seasonal affective disorder?",
+    "answer": "SAD is depression related to seasonal changes, typically starting in fall/winter. Symptoms include low energy, oversleeping, and weight gain."
+  },
+  {
+    "question": "How to manage SAD?",
+    "answer": "Light therapy, vitamin D supplementation, regular exercise, maintain schedule, spend time outdoors, and consider therapy or medication."
+  },
+  {
+    "question": "What is inflammation?",
+    "answer": "The body's protective response to injury or infection. Chronic inflammation contributes to heart disease, diabetes, and autoimmune disorders."
+  },
+  {
+    "question": "What are anti-inflammatory foods?",
+    "answer": "Fatty fish, berries, broccoli, avocados, green tea, peppers, mushrooms, grapes, turmeric, dark chocolate, tomatoes, and cherries."
+  },
+  {
+    "question": "How to strengthen immune system?",
+    "answer": "Eat balanced diet, exercise regularly, maintain healthy weight, get adequate sleep, minimize stress, avoid smoking, and practice good hygiene."
+  },
+  {
+    "question": "What are essential vitamins?",
+    "answer": "13 essential vitamins: A, C, D, E, K, and B-complex (thiamine, riboflavin, niacin, pantothenic acid, biotin, B6, B12, folate)."
+  },
+  {
+    "question": "What are symptoms of magnesium deficiency?",
+    "answer": "Muscle cramps, fatigue, insomnia, anxiety, high blood pressure, and irregular heartbeat. Sources: nuts, seeds, whole grains, leafy greens."
+  },
+  {
+    "question": "How to improve circulation?",
+    "answer": "Exercise regularly, maintain healthy weight, eat omega-3s, stay hydrated, manage stress, quit smoking, and avoid prolonged sitting/standing."
+  },
+  {
+    "question": "What are benefits of walking?",
+    "answer": "Improves cardiovascular health, strengthens bones, boosts mood, aids weight management, enhances balance, and requires no special equipment."
+  },
+  {
+    "question": "How many steps per day?",
+    "answer": "Aim for at least 7,000-10,000 steps daily for health benefits. Start with your current level and increase gradually by 500-1,000 steps weekly."
+  },
+  {
+    "question": "What is a healthy resting heart rate?",
+    "answer": "60-100 beats per minute for adults. Athletes may have 40-60 bpm. Consistently above 100 (tachycardia) or below 60 (bradycardia) warrants medical evaluation."
+  },
+  {
+    "question": "How to check pulse?",
+    "answer": "Place two fingers on wrist (radial artery) or neck (carotid artery). Count beats for 30 seconds and multiply by 2. Use a watch with second hand."
+  },
+  {
+    "question": "What is aerobic exercise?",
+    "answer": "Cardiovascular conditioning that increases breathing/heart rate for sustained periods. Examples: brisk walking, running, cycling, swimming."
+  },
+  {
+    "question": "What is anaerobic exercise?",
+    "answer": "High-intensity short-duration activity like weight lifting, sprints, HIIT. Builds muscle, strength, and power."
+  },
+  {
+    "question": "How to stay motivated to exercise?",
+    "answer": "Set specific goals, find enjoyable activities, schedule workouts, track progress, find a workout buddy, reward yourself, and vary your routine."
+  },
+  {
+    "question": "What are isometric exercises?",
+    "answer": "Exercises where muscles contract without joint movement. Examples: planks, wall sits, glute bridges. Good for strength and stability."
+  },
+  {
+    "question": "What is core strength?",
+    "answer": "The muscles around your trunk/pelvis (abs, obliques, lower back, pelvic floor) that stabilize your body. Crucial for posture, balance, and injury prevention."
+  },
+  {
+    "question": "How to improve flexibility?",
+    "answer": "Stretch regularly (especially after exercise), try yoga/Pilates, foam roll, stay hydrated, warm up before stretching, and be consistent."
+  },
+  {
+    "question": "What are dynamic stretches?",
+    "answer": "Active movements that take joints through full range of motion. Examples: leg swings, arm circles. Best before workouts."
+  },
+  {
+    "question": "What are static stretches?",
+    "answer": "Holding a stretch position for 15-60 seconds. Examples: hamstring stretch, quad stretch. Best after workouts when muscles are warm."
+  },
+  {
+    "question": "What is active recovery?",
+    "answer": "Low-intensity exercise on rest days (walking, light cycling, yoga) to promote blood flow and muscle repair without stressing the body."
+  },
+  {
+    "question": "How to prevent runner's knee?",
+    "answer": "Strengthen quadriceps/hips, wear proper shoes, avoid sudden increases in mileage, improve running form, cross-train, and maintain healthy weight."
+  },
+  {
+    "question": "What is plantar fasciitis?",
+    "answer": "Inflammation of the foot's thick tissue band. Causes heel pain, especially in morning. Treated with rest, ice, stretching, and proper footwear."
+  },
+  {
+    "question": "How to treat muscle soreness?",
+    "answer": "Rest, gentle movement, hydration, foam rolling, warm bath, over-the-counter pain relief, and adequate protein intake."
+  },
+  {
+    "question": "What is RICE method?",
+    "answer": "Rest, Ice, Compression, Elevation - first aid for sprains, strains, and bruises to reduce swelling and pain."
+  },
+  {
+    "question": "How to choose running shoes?",
+    "answer": "Get fitted at specialty store, consider your foot arch/pronation, allow thumb-width space at toe, replace every 300-500 miles, and try them on late in day."
+  }
+]
